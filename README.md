@@ -11,7 +11,7 @@
 <br><br>
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-A74BA8?style=for-the-badge&logo=ko-fi&logoColor=white)](http://sebastithomas.fr)
+[![portfolio](https://img.shields.io/badge/my_portfolio-A74BA8?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sebastithomas.fr)
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thomas-sebasti-953112b2)
 
