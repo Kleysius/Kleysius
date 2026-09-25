@@ -18,7 +18,6 @@
 - 🇫🇷 Developer based in France, passionate about building things for the web and mobile
 - 🎨 I enjoy the whole journey, from the Figma mockup to the deployed app
 - 🌱 Always learning and exploring new tools
-- 📫 Reach me at **sebasti.thomass@gmail.com**
 
 ## 🛠 Tech stack
 
